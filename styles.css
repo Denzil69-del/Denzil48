@@ -13,11 +13,13 @@ h1{
 h2{
     color: #42446E;
     font-size: 40px;
-    text-align: center;
+    diplay: flex;
 }
 h3{
     color: #42446E;
     font-size: 30px;
+h2, h3{
+    background-color: #efefefef
 }
 .nav-list {
     list-style: none;
