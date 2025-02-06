@@ -19,7 +19,7 @@ h2{
 h3{
     color: #42446E;
     font-size: 40px;
-    float: right;
+    display: flex;
     
 }
 .nav-list {
