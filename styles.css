@@ -124,3 +124,14 @@ h3{
     height: 30px;
     border-radius: 32px;
 }
+
+#contact{
+     background-color: #efefef;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px!important;
+    margin-left: -120px!important;
+    margin-right: -120px;
+}
+    
