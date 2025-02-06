@@ -9,12 +9,12 @@ main{
 }
 #about{
     background-color: #efefef;
-    padding-top: 50pxpx;
-    padding-bottom: 50px;
-    padding-left; 50px;
-    padding-right: 500px;
-    margin-left: -100px;
-    margin-right: -100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    padding-left: 50px
+	margin-left: -120;
+    margin-right: -120;
 }
 
 html {
