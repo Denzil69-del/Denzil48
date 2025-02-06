@@ -3,6 +3,9 @@ body{
     color:#666;
    
 }
+ @media (min-width: $cellphone) {
+        font-size: 18px;
+    }
 main{
     margin: 200px 100px;
    
