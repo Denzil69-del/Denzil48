@@ -43,6 +43,11 @@ h3{
     display: flex;
     
 }
+
+.navbar {
+    background-color: black;
+}
+
 .nav-list {
     list-style: none;
     display: flex;
