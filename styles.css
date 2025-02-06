@@ -19,6 +19,7 @@ h3{
     font-size: 30px;
 }
 .nav-list {
+    list-stle: none;
     display: flex;
     margin: auto;
     width: 520px;
