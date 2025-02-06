@@ -42,7 +42,8 @@ h3{
     
 }
 .nav-list {
-    font-style: bold;
+    color: #000000; 
+    text-style: bold;
     list-style: none;
     display: flex;
     margin: auto;
