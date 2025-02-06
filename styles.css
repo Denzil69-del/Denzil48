@@ -5,11 +5,14 @@ body{
 }
 main{
     margin: 200px 100px;
-    padding-top: 0px
+   
 }
 #about{
     background-color: #efefef;
-    padding: 100px 100px 100px 100px; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left; 100px;
+    padding-right: 100px;
 }
 
 html {
