@@ -19,6 +19,8 @@ main{
 
 #teck-stack{
     padding-top: 10px;
+    color: #000000; 
+    font-weight: bold;
 }
 
 html {
@@ -45,14 +47,13 @@ h3{
     list-style: none;
     display: flex;
     margin: auto;
+    padding-top: 40px!important;
     width: 520px;
 }
 
 .nav-list li {
-    color: #000000; 
-    text-style: bold;
     margin-right: 60px;
-    padding-top: 40px!important;
+    
 }
 
 .nav-list li:last-child {
