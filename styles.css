@@ -17,6 +17,10 @@ main{
     margin-right: -120px;
 }
 
+#teck-stack{
+    padding-top: 10px;
+}
+
 html {
     scroll-behavior: smooth;
 }
