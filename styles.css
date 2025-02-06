@@ -23,6 +23,7 @@ h3{
     
 }
 .nav-list {
+    font-style: bold;
     list-style: none;
     display: flex;
     margin: auto;
