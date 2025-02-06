@@ -11,10 +11,10 @@ main{
     background-color: #efefef;
     padding-top: 50pxpx;
     padding-bottom: 50px;
-    padding-left; 100px;
-    padding-right: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding-left; 50px;
+    padding-right: 500px;
+    margin-left: -100px;
+    margin-right: -100px;
 }
 
 html {
