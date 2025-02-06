@@ -6,6 +6,11 @@ body{
 main{
     margin: 200px 100px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
 h1{
     color: #42446E;
     font-size: 58px;
