@@ -18,8 +18,7 @@ h2{
 h3{
     color: #42446E;
     font-size: 30px;
-h2, h3{
-    background-color: #efefefef
+    display: flex;
 }
 .nav-list {
     list-style: none;
