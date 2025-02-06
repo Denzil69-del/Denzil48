@@ -12,8 +12,8 @@ main{
     padding-top: 30px;
     padding-bottom: 30px;
     padding-right: 50px;
-    padding-left: 50px;
-    margin-left: -120px;
+    padding-left: 50px!important;
+    margin-left: -120px!important;
     margin-right: -120px;
 }
 
