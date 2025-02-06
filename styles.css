@@ -16,10 +16,10 @@ h2{
     diplay: flex;
     margin-bottom: 35px;
 }
-h3{
+.center-align{
     color: #42446E;
     font-size: 40px;
-    display: flex;
+    text-align: center;
     
 }
 .nav-list {
